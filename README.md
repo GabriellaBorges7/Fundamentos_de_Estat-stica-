@@ -1,2 +1,2 @@
-# Fundamentos_de_Estatística_
+# Fundamentos_de_Estatistica_
 Fundamentos de Estatística 
